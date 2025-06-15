@@ -5,7 +5,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
 # --- Configuration ---
-GOOGLE_MAPS_API_KEY = 'AIzaSyAmCiz7vsCMX8VzG8C5gwJiZdDhD1R4LkE' 
+GOOGLE_MAPS_API_KEY = '' 
 FIXED_POINT = "Times Square, New York, NY"        
 CSV_FILE = "addresses.csv"
 GOOGLE_SHEET_NAME = "Address Distance Report"
